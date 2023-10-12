@@ -8,10 +8,10 @@
 <h2 align="center">I’m Currently Working on...</h2>
 <div align="center">
   <a href="https://github.com/anlit75/tt05-rule110" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-rule110&show_icons=true&theme=dark" height="150px">
-  </a> &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-rule110&show_icons=true&theme=dark" width="50%">
+  </a>
   <a href="https://github.com/anlit75/tt05-4bits-ALU" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-4bits-ALU&show_icons=true&theme=dark" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-4bits-ALU&show_icons=true&theme=dark" width="50%">
   </a>
 </div>
 <br>
@@ -19,10 +19,10 @@
 <h2 align="center">My Github Stats</h2>
 <div align="center">
   <a href="https://github.com/anlit75">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anlit75&rank_icon=github&theme=dark" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anlit75&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a> &nbsp;
   <a href="https://github.com/anlit75">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anlit75&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anlit75&rank_icon=github&theme=dark" />
   </a>
 </div>
 <br>
