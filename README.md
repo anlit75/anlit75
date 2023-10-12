@@ -1,16 +1,45 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=38&duration=3000&pause=1000&color=FFCB2E&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ting-An+Cheng+(Anson);Familiar+with+IC+design+flow+(RTL+to+GDS);Master+student+of+National+Chung+Cheng+University+)](https://git.io/typing-svg)
+<br>
 
-<!--
-**anlit75/anlit75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I’m Currently Working on ...</h1>
+<div align="center">
+  <a href="https://github.com/anlit75tt05-rule110" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-rule110&show_icons=true&theme=dark" height="150px">
+  </a> &nbsp;
+  <a href="https://github.com/anlit75/tt05-4bits-ALU" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-4bits-ALU&show_icons=true&theme=dark" height="150px">
+  </a>
+</div>
+<br>
 
-Here are some ideas to get you started:
+<h1 align="center">My Github Stats</h1>
+<div align="center">
+  <a href="https://github.com/anlit75">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anlit75&rank_icon=github&theme=dark" />
+  </a> &nbsp;
+  <a href="https://github.com/anlit75">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anlit75&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Get in Touch! 📬</h1>
+<div align="center">
+  <a href="https://anlit75.github.io/" target="_blank">
+    <img alt="My Website" src="https://img.shields.io/badge/-my%20website-orange?style=for-the-badge&logo=googleearth&logoColor=white">
+  </a> &nbsp;
+  <a href="https://github.com/anlit75" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/-github-gray?style=for-the-badge&logo=github&logoColor=white">
+  </a> &nbsp;
+  <a href="mailto:611415132%40alum.ccu.edu.tw">
+    <img alt="Mail" src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> &nbsp;
+  <a href="https://www.linkedin.com/in/anlit75" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+<br>
+
+---
+Credit：[Ting-An Cheng](https://anlit75.github.io/) <br>
+Last Edited on：10/12/2023
