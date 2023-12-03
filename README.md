@@ -7,11 +7,17 @@
 
 <h2 align="center">I’m Currently Working on...</h2>
 <div align="center">
+  <a href="https://github.com/anlit75/tt05-4bits-ALU" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-4bits-ALU&show_icons=true&theme=dark">
+  </a>
   <a href="https://github.com/anlit75/tt05-rule110" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-rule110&show_icons=true&theme=dark">
   </a>
-  <a href="https://github.com/anlit75/tt05-4bits-ALU" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-4bits-ALU&show_icons=true&theme=dark">
+  <a href="https://github.com/anlit75/SV-TBLab" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=SV-TBLab&show_icons=true&theme=dark">
+  </a>
+  <a href="https://github.com/anlit75/HDLBits" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=HDLBits&show_icons=true&theme=dark">
   </a>
 </div>
 <br>
@@ -52,4 +58,4 @@
 
 ---
 Credit：[Ting-An Cheng](https://anlit75.github.io/) <br>
-Last Edited on：10/12/2023
+Last Edited on：12/03/2023
