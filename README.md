@@ -16,8 +16,8 @@
   <a href="https://github.com/anlit75/SV-TBLab" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=SV-TBLab&show_icons=true&theme=dark">
   </a>
-  <a href="https://github.com/anlit75/HDLBits" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=HDLBits&show_icons=true&theme=dark">
+  <a href="https://github.com/anlit75/ADPLL" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=ADPLL&show_icons=true&theme=dark">
   </a>
 </div>
 <br>
@@ -58,4 +58,4 @@
 
 ---
 Credit：[Ting-An Cheng](https://anlit75.github.io/) <br>
-Last Edited on：12/03/2023
+Last Edited on：12/11/2023
