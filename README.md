@@ -4,15 +4,7 @@
 
 ## Tech Stack
 
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat)
-![UVM](https://img.shields.io/badge/-UVM-ff0000?style=flat)
-![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat) ![UVM](https://img.shields.io/badge/-UVM-ff0000?style=flat) ![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ## Featured Work
 
