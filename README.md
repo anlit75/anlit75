@@ -10,14 +10,15 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ## Featured Work
 
 | Project | What it solves | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **CCU-Thesis-LaTeX-Template** | Streamlines thesis and dissertation formatting for National Chung Cheng University students with a compliant LaTeX template. | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) | [View Code](https://github.com/anlit75/CCU-Thesis-LaTeX-Template) |
 | **ADPLL** | Implements an All-Digital Phase-Locked Loop for precise clock synchronization in digital systems. | ![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat) | [View Code](https://github.com/anlit75/ADPLL) |
-| **SV-TBLab** | Provides hands-on labs for mastering SystemVerilog testbench creation and verification methodologies. | ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat) | [View Code](https://github.com/anlit75/SV-TBLab) |
 | **RepoGallery** | Automates the creation of a personal portfolio website by aggregating GitHub repository data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | [View Code](https://github.com/anlit75/RepoGallery) |
 
 ## Latest Content
