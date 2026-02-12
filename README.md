@@ -16,6 +16,4 @@
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anlit75)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:611415132@alum.ccu.edu.tw)
-[![Website](https://img.shields.io/badge/Website-333333?style=flat&logo=googleearth&logoColor=white)](https://anlit75.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anlit75) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:611415132@alum.ccu.edu.tw) [![Website](https://img.shields.io/badge/Website-333333?style=flat&logo=googleearth&logoColor=white)](https://anlit75.github.io/)
