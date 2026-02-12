@@ -5,6 +5,7 @@
 ## Tech Stack
 
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat)
+![UVM](https://img.shields.io/badge/-UVM-ff0000?style=flat)
 ![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
