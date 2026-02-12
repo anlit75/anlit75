@@ -1,61 +1,32 @@
-<div align="center">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=42&duration=3000&pause=1000&color=FFCB2E&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ting-An+Cheng+(Anson);Familiar+with+IC+design+flow+(RTL+to+GDS);Master+student+of+National+Chung+Cheng+University+">
-  </a>
-</div>
-<br>
+# Ting-An Cheng (Anson)
 
-<h2 align="center">I’m Currently Working on...</h2>
-<div align="center">
-  <a href="https://github.com/anlit75/tt05-4bits-ALU" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-4bits-ALU&show_icons=true&theme=dark">
-  </a>
-  <a href="https://github.com/anlit75/tt05-rule110" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=tt05-rule110&show_icons=true&theme=dark">
-  </a>
-  <a href="https://github.com/anlit75/SV-TBLab" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=SV-TBLab&show_icons=true&theme=dark">
-  </a>
-  <a href="https://github.com/anlit75/ADPLL" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anlit75&repo=ADPLL&show_icons=true&theme=dark">
-  </a>
-</div>
-<br>
+> Digital IC Design Engineer & Open Source Enthusiast specializing in RTL design, verification, and automation.
 
-<h2 align="center">My GitHub Stats</h2>
-<div align="center">
-  <a href="https://github.com/anlit75">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anlit75&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a> &nbsp;
-  <a href="https://github.com/anlit75">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anlit75&rank_icon=github&theme=dark" />
-  </a>
-</div>
-<br>
+## Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anlit75/anlit75/output/github-contribution-grid-snake-dark.svg">
-<!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anlit75/anlit75/output/github-contribution-grid-snake.svg"> -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anlit75/anlit75/output/github-contribution-grid-snake.svg">
-</picture>
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat)
+![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-<h2 align="center">Get in Touch! 📬</h2>
-<div align="center">
-  <a href="https://anlit75.github.io/" target="_blank">
-    <img alt="My Website" src="https://img.shields.io/badge/-my%20website-orange?style=for-the-badge&logo=googleearth&logoColor=white">
-  </a> &nbsp;
-  <a href="https://github.com/anlit75" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/-github-gray?style=for-the-badge&logo=github&logoColor=white">
-  </a> &nbsp;
-  <a href="mailto:611415132%40alum.ccu.edu.tw">
-    <img alt="Mail" src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/anlit75" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-<br>
+## Featured Work
 
----
-Credit：[Ting-An Cheng](https://anlit75.github.io/) <br>
-Last Edited on：12/11/2023
+| Project | What it solves | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **CCU-Thesis-LaTeX-Template** | Streamlines thesis and dissertation formatting for National Chung Cheng University students with a compliant LaTeX template. | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) | [View Code](https://github.com/anlit75/CCU-Thesis-LaTeX-Template) |
+| **ADPLL** | Implements an All-Digital Phase-Locked Loop for precise clock synchronization in digital systems. | ![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat) | [View Code](https://github.com/anlit75/ADPLL) |
+| **RepoGallery** | Automates the creation of a personal portfolio website by aggregating GitHub repository data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | [View Code](https://github.com/anlit75/RepoGallery) |
+
+## Latest Content
+
+<!-- blogroll -->
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anlit75)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:611415132@alum.ccu.edu.tw)
+[![Website](https://img.shields.io/badge/Website-333333?style=flat&logo=googleearth&logoColor=white)](https://anlit75.github.io/)
