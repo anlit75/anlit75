@@ -4,21 +4,27 @@
 
 ## Tech Stack
 
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat) 
-![UVM](https://img.shields.io/badge/-UVM-ff0000?style=flat) 
-![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) 
+### 🚀 IC Design & Verification
+![UVM](https://img.shields.io/badge/-UVM-ff0000?style=flat)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat)
+![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat)
+
+### 🛠️ Others
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Makefile](https://img.shields.io/badge/-Makefile-013243?style=flat&logo=gnu&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/-SVN-809CC9?style=flat&logo=subversion&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ## Featured Work
 
 | Project | What it solves | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **CCU-Thesis-LaTeX-Template** | Streamlines thesis and dissertation formatting for National Chung Cheng University students with a compliant LaTeX template. | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) | [View Code](https://github.com/anlit75/CCU-Thesis-LaTeX-Template) |
+| **CCU-Thesis-LaTeX-Template** | Streamlines thesis and dissertation formatting for National Chung Cheng University students with a compliant LaTeX template. | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | [View Code](https://github.com/anlit75/CCU-Thesis-LaTeX-Template) |
+| **ChipForAll** | A Zero-Config Starter Kit for Open Source Silicon Design. | ![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat) ![Makefile](https://img.shields.io/badge/-Makefile-013243?style=flat&logo=gnu&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | [View Code](https://github.com/anlit75/ChipForAll) |
 | **ADPLL** | Implements an All-Digital Phase-Locked Loop for precise clock synchronization in digital systems. | ![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat) | [View Code](https://github.com/anlit75/ADPLL) |
 | **RepoGallery** | Automates the creation of a personal portfolio website by aggregating GitHub repository data. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | [View Code](https://github.com/anlit75/RepoGallery) |
 
